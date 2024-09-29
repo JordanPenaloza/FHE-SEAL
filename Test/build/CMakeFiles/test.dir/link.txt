@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/test.cpp.o -o test  /home/jordan/FHE-SEAL/SEAL/build/lib/libseal-4.1.a 
